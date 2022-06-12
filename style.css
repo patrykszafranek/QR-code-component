@@ -1,0 +1,16 @@
+body {
+  font-family: "Outfit", sans-serif;
+  font-size: 15px;
+  background-color: lightgray;
+}
+
+.qr-code {
+  background-color: white;
+  text-align: center;
+  width: 320px;
+  height: 450px;
+}
+img {
+  width: 300px;
+  height: 300px;
+}
